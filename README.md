@@ -3,17 +3,13 @@
 <h1 align="center">👋, I'm SAI PAVAN</h1>
 <h3 align="center">A passionate DATA ANALYTICS from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarsubanji&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarsubanji" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysubanji" alt="bhaskarsubanji" /></a> </p>
-
 - 🌱 I’m currently learning ** DATA ANALYTICS**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/velavadisaipavan)
 
-- 📝 I regularly write articles on [Blogs on Medium](https://medium.com/@bysubanji)
+- 📝 I regularly write articles on [Blogs on Medium](https://medium.com/@velavadisaipavan)
 
-- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence**
+- 💬 Ask me about **Data analytics, sql lite , python, powerbi, tableau, Excel**
 
 - 📫 How to reach me **saipavan90145@gmail.com**
 
